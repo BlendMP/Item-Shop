@@ -7,10 +7,10 @@ Download catalog_config.json from this repo and use fortnite.gg or https://docs.
 
 ------------------------------------
 
-AthenaCharacter = Skin
-AthenaGlider = Glider
-AthenaBackpack = backbling
-AthenaPickaxe = Pickaxe
+AthenaCharacter = Skin,
+AthenaGlider = Glider,
+AthenaBackpack = backbling,
+AthenaPickaxe = Pickaxe,
 
 Example: AthenaCharacter:CID_001_Athena_Commando_F_Default
 
